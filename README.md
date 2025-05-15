@@ -8,6 +8,8 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 
 2. Crear el diagrama de la base de datos (classicmodels)
 
+![Diagrama](DIAGRAMA.png)
+
 3. Acomodar y analizar el diagrama para poder guardarlo .mwb
 
 4. Generar las sentencias SQL para mostrar las órdenes completas por cliente (crear el script .sql)
