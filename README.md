@@ -8,7 +8,7 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 
 2. Crear el diagrama de la base de datos (classicmodels)
 
-![Diagrama](DIAGRAMA.png)
+![Diagrama](DIAGRAMA.PNG)
 
 3. Acomodar y analizar el diagrama para poder guardarlo .mwb
 
